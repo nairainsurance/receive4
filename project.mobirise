@@ -3619,7 +3619,7 @@
     },
     "receive5": {
       "settings": {
-        "title": "receive5",
+        "title": "receive",
         "meta_descr": "Web Builder Description"
       },
       "components": [
@@ -3763,7 +3763,7 @@
     },
     "receive3": {
       "settings": {
-        "title": "receive3",
+        "title": "receive",
         "meta_descr": "Web Builder Description"
       },
       "components": [
@@ -4195,7 +4195,7 @@
     },
     "receive4": {
       "settings": {
-        "title": "receive4",
+        "title": "receive",
         "meta_descr": "Web Builder Description"
       },
       "components": [
